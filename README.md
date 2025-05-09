@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Junior web developer <br><br>I have always loved computers and wanted to find out how programs and software work,<br>which has lead me to learn how to code. my journey so far is very exciting and I wish to <br>pursue my career in tech.<br><br>outside of coding I enjoy the outside world by being around people by connecting and making <br>new friends. love gaming from time to time as well.<br><br>
+Hi, I am Junior web developer <br><br>I have always loved computers and wanted to find out how programs and software work,<br>which has lead me to learn how to code. my journey so far is very exciting and I wish to <br>pursue my career in tech.
 
 
 ## 🌐 Socials:
