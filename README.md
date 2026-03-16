@@ -9,6 +9,26 @@ Currently working with modern JavaScript frameworks and backend technologies to 
 
 ---
 
+# 🛠 Latest Project
+
+### 👕 Phuture Clothing Brand (🚧Work in Progress)
+A modern **clothing brand website** currently under development.  
+Built with a **Vue.js frontend**, **Node.js + Express backend**, and **MongoDB database**.  
+Focused on delivering a **stylish, responsive storefront** with smooth navigation, secure data handling, and scalable architecture.  
+
+#### 🧰 Tech Used
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Pinia](https://img.shields.io/badge/pinia-2C3E50.svg?style=for-the-badge&logo=vuex&logoColor=yellow)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+
+🔗 [Live Preview](https://phuture-frontend.vercel.app/)
+---
+---
+
 # 🚀 Tech Stack
 
 ### 💻 Languages
